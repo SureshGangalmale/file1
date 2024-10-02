@@ -50,6 +50,7 @@ namespace First
             {
                 Console.WriteLine(items);
             }
+
             Console.WriteLine("Delete All Element in Array List");
         }
     }
